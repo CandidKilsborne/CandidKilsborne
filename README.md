@@ -30,40 +30,38 @@ Welcome to my GitHub! I'm a passionate developer with a focus on **C#** and **Az
 
 ### Frameworks & Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/DOTNET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,gatsby,godot,unity,unreal,nodejs,rails&theme=dark" alt="Frameworks & Tools" />
+  </a>
+</div>
+<div align="left">
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
-  <img src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
 </div>
 
 ### Databases
 <div align="left">
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
+  </a>
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cosmos DB" />
 </div>
 
 ### Programming Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/C_Sharp-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,powershell,cpp,ts,js,ruby,py,html,css&theme=dark" alt="Programming Languages" />
+  </a>
 </div>
 
 ### ☁️ Cloud Technologies
 <div align="left">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,terraform,docker&theme=dark" alt="Cloud Technologies" />
+  </a>
 </div>
 
 ---
