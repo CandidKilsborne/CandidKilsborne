@@ -84,11 +84,13 @@ Welcome to my GitHub! I'm a passionate developer with a focus on **C#** and **Az
 
 ### 🛠️ Software I Use
 <div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,postman,figma&theme=dark" alt="Software I Use" />
+  </a>
+</div>
+<div align="left">
   <img src="https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" />
   <img src="https://img.shields.io/badge/ReSharper-000000?style=for-the-badge&logo=resharper&logoColor=white" alt="ReSharper" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </div>
 
@@ -98,7 +100,7 @@ Welcome to my GitHub! I'm a passionate developer with a focus on **C#** and **Az
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CandidKilsborne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandidKilsborne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=CandidKilsborne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="left">
